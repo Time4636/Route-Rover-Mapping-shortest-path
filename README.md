@@ -11,7 +11,7 @@ Our C++ program reads real road distances for Uttarakhand from a CSV file. It th
 # How Python and C++ Talk
 Python and C++ exchange information through simple text files (input.txt and output.txt). This keeps the system straightforward and avoids unnecessary complexity.
 # Libraries & Tools Used
-- Language	         Libraries & Tools
+ Language	         Libraries & Tools
 - Python	            osmnx, geopy, Tkinter, matplotlib, NetworkX, pandas
 - C++	                STL (unordered_map, priority_queue, fstream)
 - Platforms	           Jupyter Notebook (Python), VS Code (C++)
