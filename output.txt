@@ -1,0 +1,3 @@
+Path 1 (cost: 81.33 km): Dehradun -> Tehri
+Path 2 (cost: 83.24 km): Dehradun -> Mussoorie -> Tehri
+Path 3 (cost: 100.95 km): Dehradun -> Doiwala -> Tehri
